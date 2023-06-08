@@ -1,4 +1,5 @@
 $(document).ready(function() {
+  //ccc
   const searchInput = $('#searchInput');
   const searchButton = $('#searchButton');
   const resultsDiv = $('#results');
